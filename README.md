@@ -1,4 +1,4 @@
-# AI Project
+# Synthetic User Generation Platform
 
 An AI-powered user research and experiment management application designed to help users manage experiments, create surveys, work with personas, generate synthetic responses, and analyze research insights.
 
